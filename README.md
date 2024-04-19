@@ -1,10 +1,10 @@
-# rochester.dev Wordpress Core
+# www.rochester.dev
 
-This is a rochester.dev project intended for quick templating for new clients.
+The main wordpress theme for www.rochester.dev.
 
 ## Features
 
-This project features a barebones templates for pages, posts, and a front page.
+This project features a stylized templates for pages, posts, and a front page.
 It includes a responsive mobile-first nav.
 It is initialized with a single css and js file for customizations.
 
